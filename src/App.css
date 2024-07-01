@@ -40,12 +40,12 @@ img{
     flex-direction: row;
     width: 80%;
   }
-  #editor{
+  #editor {
     width: 50%;
     height: 80vh;
     margin-right: 10px;
   }
-  #preview{
+  #preview {
     width: 50%;
     height: 80vh;
     margin-left: 10px;
